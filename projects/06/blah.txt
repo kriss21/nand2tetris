@@ -1,0 +1,13 @@
+a  aaa/a   aaaa
+\n
+@a
+@b
+(loop)
+@loop
+@5
+(b)
+//b   bbbb      bbbb
+kf//jflkj
+lf/*kjfl
+bl*/
+ah
